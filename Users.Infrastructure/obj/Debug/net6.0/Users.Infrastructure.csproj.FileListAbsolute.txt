@@ -1,0 +1,15 @@
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\bin\Debug\net6.0\Users.Infrastructure.deps.json
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\bin\Debug\net6.0\Users.Infrastructure.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\bin\Debug\net6.0\ref\Users.Infrastructure.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\bin\Debug\net6.0\Users.Infrastructure.pdb
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\bin\Debug\net6.0\Users.Domain.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\bin\Debug\net6.0\Users.Domain.pdb
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.AssemblyInfo.cs
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.csproj.CopyComplete
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\ref\Users.Infrastructure.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Infrastructure\obj\Debug\net6.0\Users.Infrastructure.pdb

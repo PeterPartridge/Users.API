@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "954db233-0ce4-489b-8f87-e01ce5ca2db5": {
+      "ProjectGuid": "954db233-0ce4-489b-8f87-e01ce5ca2db5",
+      "DisplayName": "Users.API",
+      "ColorIndex": 0
+    },
+    "fab0dcd1-455e-4f43-9a85-f542dec598b2": {
+      "ProjectGuid": "fab0dcd1-455e-4f43-9a85-f542dec598b2",
+      "DisplayName": "Users.Domain",
+      "ColorIndex": 1
+    },
+    "b27196c6-6e01-417b-9786-bba74c0d5417": {
+      "ProjectGuid": "b27196c6-6e01-417b-9786-bba74c0d5417",
+      "DisplayName": "Users.Infrastructure",
+      "ColorIndex": 2
+    },
+    "481fcdac-2e04-4d0d-bbb6-add41833cd49": {
+      "ProjectGuid": "481fcdac-2e04-4d0d-bbb6-add41833cd49",
+      "DisplayName": "User.API_Tests",
+      "ColorIndex": 3
+    },
+    "0acb7446-84d7-4229-9981-f5ad4e64ae9e": {
+      "ProjectGuid": "0acb7446-84d7-4229-9981-f5ad4e64ae9e",
+      "DisplayName": "API.Infrastructure_Tests",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "082e467b-c226-41c0-87d7-d96be5d875ce": {
+      "ProjectGuid": "082e467b-c226-41c0-87d7-d96be5d875ce",
+      "DisplayName": "API.Endpoint_Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

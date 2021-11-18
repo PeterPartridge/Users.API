@@ -1,0 +1,11 @@
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\bin\Debug\net6.0\Users.Domain.deps.json
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\bin\Debug\net6.0\Users.Domain.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\bin\Debug\net6.0\ref\Users.Domain.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\bin\Debug\net6.0\Users.Domain.pdb
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\obj\Debug\net6.0\Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\obj\Debug\net6.0\Users.Domain.AssemblyInfoInputs.cache
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\obj\Debug\net6.0\Users.Domain.AssemblyInfo.cs
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\obj\Debug\net6.0\Users.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\obj\Debug\net6.0\Users.Domain.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\obj\Debug\net6.0\ref\Users.Domain.dll
+C:\Users\PeterPartridge\source\repos\Users.API\Users.Domain\obj\Debug\net6.0\Users.Domain.pdb
